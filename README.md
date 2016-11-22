@@ -1,4 +1,4 @@
-# PUI-Extra-Credit
+# PUI Extra Credit Proposal
 
 # Best time to drive a cab?
 ## When are the longer trips and higher average fares likely to happen? 
