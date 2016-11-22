@@ -31,4 +31,5 @@ Visual Exploration of Big Spatio-Temporal Urban Data: A Study of New York City T
 
 NYC Taxi Trip and Fare Data Analytics using BigData - Umang Patel #
 
-## Deliverable:  Several Plots of regarding the time series and weather related ridership. 
+## Deliverable:  
+Several Plots of regarding the time series and weather related ridership. 
