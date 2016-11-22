@@ -6,7 +6,7 @@
 <Le Xu, github: lx565, NYU ID: lx565>
 
 ## Problem Description:
-It is generally known that: Fridays’ and Saturdays’ nights are the busiest time period during the week, or bad weather could also help to drive up taxi demands. After the CUSP hack-day working on NYC Taxi dataset, I would love to further study the taxi fares by analyzing with the taxi trip occurring time and the daily weather.  In my data analysis, I will answer questions like: when is the time of the day has better chance of longer trips or higher average trip fare? How bad weather (rain/snow) could affect taxi ridership, etc. 
+It is generally known that: Fridays’ and Saturdays’ nights are the busiest time period during the week, or bad weather could also help to drive up taxi demands. After the CUSP hack-day working on NYC Taxi dataset, I would love to further study the taxi fares by analyzing with the taxi trip occurring time and the daily weather.  In my data analysis, I will answer questions like: What time of the day has better chance of longer trips or higher average trip fare? How bad weather (rain/snow) could affect taxi ridership, etc. 
 
 
 ## Data: 
