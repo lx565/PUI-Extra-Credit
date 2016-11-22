@@ -1,7 +1,7 @@
 # PUI-Extra-Credit
 
-Best time to drive a cab?
-When the longer trips and higher average fares likely to happen? 
+# Best time to drive a cab?
+## When the longer trips and higher average fares likely to happen? 
 
 <Le Xu, github: lx565, NYU ID: lx565>
 
