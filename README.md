@@ -9,7 +9,9 @@
 It is generally known that: Fridays’ and Saturdays’ nights are the busiest time period during the week, or bad weather could also help to drive up taxi demands. After the CUSP hack-day working on NYC Taxi dataset, I would love to further study the taxi fares by analyzing with the taxi trip occurring time and the daily weather.  In my data analysis, I will answer questions like: What time of the day has better chance of longer trips or higher average trip fare? How bad weather (rain/snow) could affect taxi ridership, etc. 
 
 
-## Data: 
+## Data: (ready for analysis) 
+[Data](https://github.com/lx565/PUI-Extra-Credit/tree/master/Data)
+
 ### 1. Taxi trip data
 #### Source: NYC Taxi & Limousine Commission - NYC.gov
 Since there will be time series analysis, the taxi data from NYC.gov has included the time of the trip occurring, both the pick-up time and drop-off time, and the total fare as well as the total tip amount. 
