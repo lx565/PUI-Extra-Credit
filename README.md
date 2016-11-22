@@ -18,6 +18,7 @@ The anticipated data processing will mainly include: binning the timestamps, to 
 ### 2. Daily Central Park weather data
 #### Source: National Climatic Data Center, 
 https://www.ncdc.noaa.gov/cdo-web/datasets/GHCND/stations/GHCND:USW00094728/detail
+
 This dataset could give me the weather data that I need. 
 
 *Since the size of the taxi data is rather huge, so I might consider take a subset of the dataset, however I am not sure currently.
