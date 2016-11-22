@@ -11,12 +11,13 @@ It is generally known that: Fridays’ and Saturdays’ nights are the busiest t
 
 ## Data: 
 ### 1. Taxi trip data
-Source: NYC Taxi & Limousine Commission - NYC.gov
+#### Source: NYC Taxi & Limousine Commission - NYC.gov
 Since there will be time series analysis, the taxi data from NYC.gov has included the time of the trip occurring, both the pick-up time and drop-off time, and the total fare as well as the total tip amount. 
 The anticipated data processing will mainly include: binning the timestamps, to discover the trend/periodicity of the taxi income during the day/week/month. 
 ### 2. Daily Central Park weather data
-Source: National Climatic Data Center, 
+#### Source: National Climatic Data Center, 
 https://www.ncdc.noaa.gov/cdo-web/datasets/GHCND/stations/GHCND:USW00094728/detail
+This dataset could give me the weather data that I need. 
 
 *Since the size of the taxi data is rather huge, so I might consider take a subset of the dataset, however I am not sure currently.
 
